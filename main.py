@@ -81,7 +81,7 @@ class Admin(User):
             print("Invalid input. Please enter a number.")
             self.user_menu()
     def login(self):
-        name_pass = {"Annas": 123, "Ali": 456, "Shehzad": 789, "Imad": 000}
+hhbh        name_pass = {"Annas": 123, "Ali": 456}
 
         name = input("Enter your name: ").lower()
         try:
